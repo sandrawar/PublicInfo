@@ -1,3 +1,7 @@
+layout: page
+title: "Journal Privacy Policy"
+permalink: /journal/privacy/
+
 ## Journal App Privacy Policy
 
 ### Data Policy
